@@ -89,7 +89,7 @@ input+label {
    display: block;
    z-index: -8889999999999vh;
    transform: translate(50%, 50%);
-   background: url(img/3.png) left ; 
+   background: url(3.png) left ; 
   background-repeat: no-repeat;
    background-size: 16vh, 0px;
     animation: duckAni .77s infinite;
