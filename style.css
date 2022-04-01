@@ -31,7 +31,7 @@ button{
    top: -1vh;
    background-color: green;
    align-items: center;
-   animation: xcv 12s ;
+   animation: xcv 22s ;
 }
 @keyframes xcv{
    0%{
@@ -232,75 +232,75 @@ input{
    position: absolute;
    left: 45vh;
    bottom: 12vh;
-   animation: qp 1s ;
+   animation: qp 2s ;
 }
 
 .o {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: o 2s;
+   animation: o 4s;
 }
 
 .i {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: i 3s;
+   animation: i 6s;
 }
 .u {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: u 4s;
+   animation: u 8s;
 }
 .y {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: y 5s;
+   animation: y 10s;
 }
 
 .t {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: t 6s;
+   animation: t 12s;
 }
 
 .r {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: r 7s;
+   animation: r 14s;
 }
 
 .e {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: e 8s;
+   animation: e 16s;
 }
 
 .w {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: w 9s;
+   animation: w 18s;
 }
 
 .q {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: q 10s;
+   animation: q 20s;
 }
 
 .p {
    position: absolute;
    left: 45vh;
    top: -12vh;
-   animation: p 11s;
+   animation: p 22s;
 }
 
 @keyframes qp{
